@@ -1,0 +1,29 @@
+{
+  "name": "learn_nodejs",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "nodemon --inspect index.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/K1ethoang/Learn_NodeJS.git"
+  },
+  "keywords": [
+    "nodejs"
+  ],
+  "author": "k1ethoang",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/K1ethoang/Learn_NodeJS/issues"
+  },
+  "homepage": "https://github.com/K1ethoang/Learn_NodeJS#readme",
+  "dependencies": {
+    "express": "^4.18.2"
+  },
+  "devDependencies": {
+    "nodemon": "^2.0.22"
+  }
+}
