@@ -12,8 +12,13 @@ cd Learn_NodeJS
 ```bash
 npm install
 ```
-### 4. Start project
+### 4. Install husky
+```bash
+npm prepare
+```
+
+### 5. Start project
 ```bash
 npm start
 ```
-### 5. Ctrl + Click on path "http://localhost:5000" in Terminal log
+### 6. Ctrl + Click on path "http://localhost:5000" in Terminal log
